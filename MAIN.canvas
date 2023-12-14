@@ -1,17 +1,31 @@
 {
 	"nodes":[
-		{"id":"a4abb5339380f833","x":-159,"y":-293,"width":262,"height":128,"type":"text","text":"# GESTIONE E INNOVAZIONE DEI PROGETTI"},
-		{"id":"5f93e5f710edab06","x":-360,"y":-564,"width":262,"height":84,"type":"file","file":"pages/FORME DI INNOVAZIONE.md"},
-		{"id":"1c973eb9652cfcec","x":-729,"y":-1319,"width":500,"height":465,"type":"file","file":"pages/INNOVAZIONE RADICALE E INCREMENTALE.md"},
-		{"id":"75628e21f657adb7","x":-1229,"y":-767,"width":500,"height":406,"type":"file","file":"pages/INNOVAZIONE COMPETENCE DESTROYING E ENHANCING.md"},
-		{"id":"c2cdd0f739b7e7d2","x":-1179,"y":-1286,"width":400,"height":400,"type":"file","file":"pages/INNOVAZIONE ARCHITETTURALE E MODULARE.md"},
-		{"id":"de65c2e7db931896","x":-98,"y":-1286,"width":500,"height":307,"type":"file","file":"pages/INNOVAZIONE DI PRODOTTO E DI PROCESSO.md"}
+		{"id":"a4abb5339380f833","type":"text","text":"# GESTIONE E INNOVAZIONE DEI PROGETTI","x":-159,"y":-293,"width":262,"height":128},
+		{"id":"5f93e5f710edab06","type":"file","file":"pages/FORME DI INNOVAZIONE.md","x":-360,"y":-564,"width":262,"height":84},
+		{"id":"1c973eb9652cfcec","type":"file","file":"pages/INNOVAZIONE RADICALE E INCREMENTALE.md","x":-729,"y":-1319,"width":500,"height":465},
+		{"id":"75628e21f657adb7","type":"file","file":"pages/INNOVAZIONE COMPETENCE DESTROYING E ENHANCING.md","x":-1229,"y":-767,"width":500,"height":406},
+		{"id":"c2cdd0f739b7e7d2","type":"file","file":"pages/INNOVAZIONE ARCHITETTURALE E MODULARE.md","x":-1179,"y":-1286,"width":400,"height":400},
+		{"id":"de65c2e7db931896","type":"file","file":"pages/INNOVAZIONE DI PRODOTTO E DI PROCESSO.md","x":-98,"y":-1286,"width":500,"height":307},
+		{"id":"d70e20e3ec186e4f","type":"file","file":"pages/EVOLUZIONE DELLE TECNOLOGIE.md","x":-860,"y":-100,"width":392,"height":220},
+		{"id":"b748149492149616","type":"file","file":"pages/MODELLAZIONE DELL'INNOVAZIONE.md","x":-860,"y":260,"width":400,"height":200},
+		{"id":"13947a41af4404ca","type":"file","file":"pages/MODELLO FISHER-PRY.md","x":-1320,"y":520,"width":400,"height":400},
+		{"id":"8db1b76296c11eba","type":"file","file":"pages/CURVE AD S.md","x":-428,"y":520,"width":400,"height":400},
+		{"id":"709145ad2e375577","x":-879,"y":1040,"width":400,"height":400,"type":"file","file":"pages/GRAFICI A X.md"},
+		{"id":"6b20ce680065ed2e","x":160,"y":520,"width":400,"height":400,"type":"file","file":"pages/CICLO DELL'INNOVAZIONE.md"},
+		{"id":"782d6196b9bf38c5","x":760,"y":-40,"width":400,"height":400,"type":"file","file":"pages/TECHNOLOGY READINESS LEVELS.md"}
 	],
 	"edges":[
 		{"id":"90fa2ac6f20b9e42","fromNode":"a4abb5339380f833","fromSide":"top","toNode":"5f93e5f710edab06","toSide":"bottom"},
 		{"id":"bf0e4bd060e156fa","fromNode":"5f93e5f710edab06","fromSide":"top","toNode":"1c973eb9652cfcec","toSide":"bottom"},
 		{"id":"2f541472c7ce5b3b","fromNode":"5f93e5f710edab06","fromSide":"top","toNode":"75628e21f657adb7","toSide":"right"},
 		{"id":"3d6b5a11ebfd740a","fromNode":"5f93e5f710edab06","fromSide":"top","toNode":"c2cdd0f739b7e7d2","toSide":"bottom"},
-		{"id":"ed39e094e70af769","fromNode":"5f93e5f710edab06","fromSide":"top","toNode":"de65c2e7db931896","toSide":"bottom"}
+		{"id":"ed39e094e70af769","fromNode":"5f93e5f710edab06","fromSide":"top","toNode":"de65c2e7db931896","toSide":"bottom"},
+		{"id":"0ca21f65f238ed7a","fromNode":"a4abb5339380f833","fromSide":"left","toNode":"d70e20e3ec186e4f","toSide":"top"},
+		{"id":"20e5938cf4585c9e","fromNode":"d70e20e3ec186e4f","fromSide":"bottom","toNode":"b748149492149616","toSide":"top"},
+		{"id":"fa2f99e3eb68099b","fromNode":"b748149492149616","fromSide":"right","toNode":"8db1b76296c11eba","toSide":"top"},
+		{"id":"ee8e10bdfd074b28","fromNode":"b748149492149616","fromSide":"left","toNode":"13947a41af4404ca","toSide":"top"},
+		{"id":"f3d2432efdf55ba2","fromNode":"b748149492149616","fromSide":"bottom","toNode":"709145ad2e375577","toSide":"top"},
+		{"id":"e64126a8d6f9d582","fromNode":"b748149492149616","fromSide":"right","toNode":"6b20ce680065ed2e","toSide":"top"},
+		{"id":"0740f156bd3a964e","fromNode":"a4abb5339380f833","fromSide":"right","toNode":"782d6196b9bf38c5","toSide":"top"}
 	]
 }
