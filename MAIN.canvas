@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a4abb5339380f833","x":-159,"y":-293,"width":262,"height":128,"type":"text","text":"# GESTIONE E INNOVAZIONE DEI PROGETTI"},
+		{"id":"5f93e5f710edab06","x":-360,"y":-564,"width":262,"height":84,"type":"file","file":"pages/FORME DI INNOVAZIONE.md"},
+		{"id":"1c973eb9652cfcec","x":-729,"y":-1319,"width":500,"height":465,"type":"file","file":"pages/INNOVAZIONE RADICALE E INCREMENTALE.md"},
+		{"id":"75628e21f657adb7","x":-1229,"y":-767,"width":500,"height":406,"type":"file","file":"pages/INNOVAZIONE COMPETENCE DESTROYING E ENHANCING.md"},
+		{"id":"c2cdd0f739b7e7d2","x":-1179,"y":-1286,"width":400,"height":400,"type":"file","file":"pages/INNOVAZIONE ARCHITETTURALE E MODULARE.md"},
+		{"id":"de65c2e7db931896","x":-98,"y":-1286,"width":500,"height":307,"type":"file","file":"pages/INNOVAZIONE DI PRODOTTO E DI PROCESSO.md"}
+	],
+	"edges":[
+		{"id":"90fa2ac6f20b9e42","fromNode":"a4abb5339380f833","fromSide":"top","toNode":"5f93e5f710edab06","toSide":"bottom"},
+		{"id":"bf0e4bd060e156fa","fromNode":"5f93e5f710edab06","fromSide":"top","toNode":"1c973eb9652cfcec","toSide":"bottom"},
+		{"id":"2f541472c7ce5b3b","fromNode":"5f93e5f710edab06","fromSide":"top","toNode":"75628e21f657adb7","toSide":"right"},
+		{"id":"3d6b5a11ebfd740a","fromNode":"5f93e5f710edab06","fromSide":"top","toNode":"c2cdd0f739b7e7d2","toSide":"bottom"},
+		{"id":"ed39e094e70af769","fromNode":"5f93e5f710edab06","fromSide":"top","toNode":"de65c2e7db931896","toSide":"bottom"}
+	]
+}
