@@ -13,5 +13,7 @@ Esistono dei modelli per prevedere l'andamento e la diffusione dell'innovazione 
 - ## [GRAFICI A X](GRAFICI%20A%20X.md)
 
 	modello utilizzato per la rappresentazione di passaggio tra una tecnologia e l'altra
-	
 
+- ### [CICLO DELL'INNOVAZIONE](CICLO%20DELL'INNOVAZIONE.md)
+
+	modello per la rappresentazione dell' evoluzione delle soluzioni industriali
