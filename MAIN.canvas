@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"259cab1b2a0b5332","x":446,"y":-693,"width":250,"height":60,"type":"file","file":"pages/PROPRIETÀ INTELLETTUALE.md"},
+		{"id":"259cab1b2a0b5332","type":"file","file":"pages/PROPRIETÀ INTELLETTUALE.md","x":446,"y":-693,"width":250,"height":60},
 		{"id":"a4abb5339380f833","type":"text","text":"# GESTIONE E INNOVAZIONE DEI PROGETTI","x":-159,"y":-293,"width":262,"height":128},
 		{"id":"5f93e5f710edab06","type":"file","file":"pages/FORME DI INNOVAZIONE.md","x":-360,"y":-564,"width":262,"height":84},
 		{"id":"1c973eb9652cfcec","type":"file","file":"pages/INNOVAZIONE RADICALE E INCREMENTALE.md","x":-729,"y":-1319,"width":500,"height":465},
@@ -13,7 +13,8 @@
 		{"id":"8db1b76296c11eba","type":"file","file":"pages/CURVE AD S.md","x":-428,"y":520,"width":400,"height":400},
 		{"id":"709145ad2e375577","type":"file","file":"pages/GRAFICI A X.md","x":-879,"y":1040,"width":400,"height":400},
 		{"id":"6b20ce680065ed2e","type":"file","file":"pages/CICLO DELL'INNOVAZIONE.md","x":160,"y":520,"width":400,"height":400},
-		{"id":"782d6196b9bf38c5","type":"file","file":"pages/TECHNOLOGY READINESS LEVELS.md","x":760,"y":-40,"width":400,"height":400}
+		{"id":"782d6196b9bf38c5","type":"file","file":"pages/TECHNOLOGY READINESS LEVELS.md","x":760,"y":-40,"width":400,"height":400},
+		{"id":"200a7c8b1b65bcb2","x":640,"y":-1033,"width":292,"height":153,"type":"file","file":"pages/STRUMENTI DI PROPRIETÀ INTELLETTUALE.md"}
 	],
 	"edges":[
 		{"id":"90fa2ac6f20b9e42","fromNode":"a4abb5339380f833","fromSide":"top","toNode":"5f93e5f710edab06","toSide":"bottom"},
@@ -27,6 +28,8 @@
 		{"id":"ee8e10bdfd074b28","fromNode":"b748149492149616","fromSide":"left","toNode":"13947a41af4404ca","toSide":"top"},
 		{"id":"f3d2432efdf55ba2","fromNode":"b748149492149616","fromSide":"bottom","toNode":"709145ad2e375577","toSide":"top"},
 		{"id":"e64126a8d6f9d582","fromNode":"b748149492149616","fromSide":"right","toNode":"6b20ce680065ed2e","toSide":"top"},
-		{"id":"0740f156bd3a964e","fromNode":"a4abb5339380f833","fromSide":"right","toNode":"782d6196b9bf38c5","toSide":"top"}
+		{"id":"0740f156bd3a964e","fromNode":"a4abb5339380f833","fromSide":"right","toNode":"782d6196b9bf38c5","toSide":"top"},
+		{"id":"f10c93bf4b0e2443","fromNode":"a4abb5339380f833","fromSide":"top","toNode":"259cab1b2a0b5332","toSide":"bottom"},
+		{"id":"b83265f577c59538","fromNode":"259cab1b2a0b5332","fromSide":"top","toNode":"200a7c8b1b65bcb2","toSide":"bottom"}
 	]
 }
