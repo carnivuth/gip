@@ -43,10 +43,10 @@ Le curve ad S hanno molte limitazioni, tra cui:
 
 Per sopravvivere a innovazioni disruptive le aziende devono adottare delle strategie:
 
-- Disporre di adeguati “sensori” di sviluppo della nuova tecnologia
+- Disporre di adeguati **“sensori” di sviluppo** della nuova tecnologia
 
-- Attivare forme di open innovation, ovvero una forma di collaborazione con altre imprese possibilmente flessibili in modo che possano dare informazioni sull’andamento dell’innovazione
+- Attivare forme di **open innovation**, ovvero una forma di collaborazione con altre imprese possibilmente flessibili in modo che possano dare informazioni sull’andamento dell’innovazione
 
-- Favorire autonomia e imprenditorialità per sviluppare una nuova tecnologia
+- Favorire **autonomia e imprenditorialità** per sviluppare una nuova tecnologia
 
-- Far leva sulle risorse complementari per colmare un eventuale ritardo tecnologico
+- Far leva sulle **risorse complementari** per colmare un eventuale ritardo tecnologico

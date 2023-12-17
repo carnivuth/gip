@@ -15,9 +15,9 @@
 		{"id":"6b20ce680065ed2e","type":"file","file":"pages/CICLO DELL'INNOVAZIONE.md","x":160,"y":520,"width":400,"height":400},
 		{"id":"782d6196b9bf38c5","type":"file","file":"pages/TECHNOLOGY READINESS LEVELS.md","x":760,"y":-40,"width":400,"height":400},
 		{"id":"200a7c8b1b65bcb2","type":"file","file":"pages/STRUMENTI DI PROPRIETÀ INTELLETTUALE.md","x":640,"y":-1033,"width":292,"height":153},
-		{"id":"a65e72069294b64e","x":1160,"y":-663,"width":400,"height":400,"type":"file","file":"pages/ECOSISTEMI PER L'INNOVAZIONE.md"},
-		{"id":"1e6dbe38149265d4","x":786,"y":-1719,"width":400,"height":400,"type":"file","file":"pages/MARCHI.md"},
-		{"id":"d7c002330b40cfd4","x":1360,"y":-1286,"width":400,"height":400,"type":"file","file":"pages/BREVETTI.md"}
+		{"id":"a65e72069294b64e","type":"file","file":"pages/ECOSISTEMI PER L'INNOVAZIONE.md","x":1160,"y":-663,"width":400,"height":400},
+		{"id":"1e6dbe38149265d4","type":"file","file":"pages/MARCHI.md","x":786,"y":-1719,"width":400,"height":400},
+		{"id":"d7c002330b40cfd4","type":"file","file":"pages/BREVETTI.md","x":1360,"y":-1286,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"90fa2ac6f20b9e42","fromNode":"a4abb5339380f833","fromSide":"top","toNode":"5f93e5f710edab06","toSide":"bottom"},

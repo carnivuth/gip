@@ -33,4 +33,13 @@ $$
 
 ![](Pasted%20image%2020231214185032.png)
 
-Il punto più complesso da raggiungere per le aziende e la fetta degli early majority
+Il punto più complesso da raggiungere per le aziende e la fetta degli early majority questa e detta l'**abisso**
+
+
+### STRATEGIE PER SUPERARE L'ABISSO
+
+- puntare su una strategia detta a **testa di ponte** partire da un mercato di nicchia e poi espanderlo
+
+- avere una **chiara value proposition**
+
+- **focalizzare il marketing** sulla fetta di acquirenti motivata all'acquisto
