@@ -19,10 +19,11 @@
 		{"id":"1e6dbe38149265d4","type":"file","file":"pages/MARCHI.md","x":786,"y":-1719,"width":400,"height":400},
 		{"id":"d7c002330b40cfd4","type":"file","file":"pages/BREVETTI.md","x":1360,"y":-1286,"width":400,"height":400},
 		{"id":"7e820b5adcdf1b59","type":"text","text":"# INNOVAZIONE DI SIGNIFICATO (Verganti)\n\nInnovazione che cambia il significato di un prodotto (es. lo smartphone ha cambiato totalmente il modo di intendere il telefono cellulare).\n\n# INNOVAZIONE DI FUNZIONI\n\nInnovazione che modifica o introduce nuove funzioni (es. Notch negli iphone)","x":-1379,"y":-307,"width":400,"height":285},
-		{"id":"08bc862338291565","x":1769,"y":567,"width":400,"height":400,"type":"file","file":"pages/PROTOTIPI.md"},
-		{"id":"2756fccf50571287","x":1560,"y":1240,"width":400,"height":400,"type":"file","file":"pages/STORYBOARD.md"},
-		{"id":"7641f64a116e946d","x":696,"y":1240,"width":400,"height":400,"type":"file","file":"pages/SPLIT TEST.md"},
-		{"id":"15dffed5eeee71c2","x":786,"y":640,"width":400,"height":400,"type":"file","file":"pages/PROTOTIPAZIONE E SPERIMENTAZIONE.md"}
+		{"id":"08bc862338291565","x":1769,"y":567,"width":400,"height":278,"type":"file","file":"pages/PROTOTIPI.md"},
+		{"id":"2756fccf50571287","x":1560,"y":1240,"width":400,"height":302,"type":"file","file":"pages/STORYBOARD.md"},
+		{"id":"15dffed5eeee71c2","x":786,"y":640,"width":400,"height":400,"type":"file","file":"pages/PROTOTIPAZIONE E SPERIMENTAZIONE.md"},
+		{"id":"f993679833c843e4","x":1096,"y":1400,"width":400,"height":186,"type":"file","file":"pages/MVP.md"},
+		{"id":"7641f64a116e946d","x":520,"y":1200,"width":400,"height":216,"type":"file","file":"pages/SPLIT TEST.md"}
 	],
 	"edges":[
 		{"id":"90fa2ac6f20b9e42","fromNode":"a4abb5339380f833","fromSide":"top","toNode":"5f93e5f710edab06","toSide":"bottom"},
@@ -46,6 +47,7 @@
 		{"id":"28afee0226f73ede","fromNode":"a4abb5339380f833","fromSide":"bottom","toNode":"15dffed5eeee71c2","toSide":"top"},
 		{"id":"c1c483c850c99dd5","fromNode":"15dffed5eeee71c2","fromSide":"right","toNode":"08bc862338291565","toSide":"left"},
 		{"id":"e36b98598831d930","fromNode":"15dffed5eeee71c2","fromSide":"bottom","toNode":"2756fccf50571287","toSide":"top"},
-		{"id":"11816ca926743de3","fromNode":"15dffed5eeee71c2","fromSide":"bottom","toNode":"7641f64a116e946d","toSide":"top"}
+		{"id":"11816ca926743de3","fromNode":"15dffed5eeee71c2","fromSide":"bottom","toNode":"7641f64a116e946d","toSide":"top"},
+		{"id":"f5eea9debbd59c18","fromNode":"15dffed5eeee71c2","fromSide":"bottom","toNode":"f993679833c843e4","toSide":"top"}
 	]
 }
