@@ -1,5 +1,9 @@
 # FORME DI INNOVAZIONE
 
+## DEFINIZIONE 
+
+Innovazione è l’**implementazione di un nuovo o significativamente migliorato prodotto/processo, metodo di mercato, o un metodo di organizzazione nelle pratiche di business/organizzazione del luogo di lavoro/relazioni esterne**
+
 | FORME DI INNOVAZIONE  | DESCRIZIONE                                                                                     | AUTORI DI RIFERIMENTO   |
 | --------------------- | ----------------------------------------------------------------------------------------------- | ----------------------- |
 | [DI PRODOTTO](INNOVAZIONE%20DI%20PRODOTTO%20E%20DI%20PROCESSO.md)           | innovazioni incorporate in un bene fisico                                                       | Abernathy and Utterback |
