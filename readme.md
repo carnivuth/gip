@@ -1,7 +1,7 @@
 # GESTIONE E INNOVAZIONE DEI PROGETTI
 note personali sul corso di gestione e innovazione dei progetti
 
-la repository e un vault obsidian, per utilizzarla:
+la repository è un vault obsidian, per utilizzarla:
 
 ## UTILIZZO
 
@@ -11,7 +11,7 @@ la repository e un vault obsidian, per utilizzarla:
 
 - [aggiungere il vault su obsidian](https://help.obsidian.md/Files+and+folders/Manage+vaults#Create+vault+from+an+existing+folder)
 
-e possibile visualizzarla anche senza obsidian in quanto sono file di testo in markdown anche se non lo consiglio
+è possibile visualizzarla anche senza obsidian in quanto sono file di testo in markdown anche se non lo consiglio
 
 ## INDICE
 

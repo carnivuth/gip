@@ -12,8 +12,8 @@ Innovazione è l’**implementazione di un nuovo o significativamente migliorato
 | [INCREMENTALE](INNOVAZIONE%20RADICALE%20E%20INCREMENTALE.md)          | innovazioni che si limitano a migliorare o adattare soluzioni già esistenti                     | Tushman and Anderson    |
 | [COMPETENCE ENHANCING](INNOVAZIONE%20COMPETENCE%20DESTROYING%20E%20ENHANCING.md)  | innovazioni realizzate per mezzo di miglioramento di competenze già acquisite                   | Tushman and Anderson    |
 | [COMPETENCE DESTROYING](INNOVAZIONE%20COMPETENCE%20DESTROYING%20E%20ENHANCING.md) | innovazioni che stravolgono i principi di funzionamento del prodotto                            | Tushman and Anderson    |
-| ARCHITETTURALE        | innovazioni che stravolgono l'architettura di un prodotto                                       | Henderson e Clark       |
-| MODULARE              | innovazioni che mantengono l'architettura ma migliorano singoli moduli di essa                  | Henderson e Clark       |
+| [ARCHITETTURALE](INNOVAZIONE%20ARCHITETTURALE%20E%20MODULARE.md)        | innovazioni che stravolgono l'architettura di un prodotto                                       | Henderson e Clark       |
+| [MODULARE](INNOVAZIONE%20ARCHITETTURALE%20E%20MODULARE.md)              | innovazioni che mantengono l'architettura ma migliorano singoli moduli di essa                  | Henderson e Clark       |
 | DISRUPTIVE            | innovazione che stravolge il mercato                                                            | Christensen             |
 | SUSTAINING            | innovazione che mantiene lo status quo del mercato                                              | Christensen             |
 | SIGNIFICATO           | innovazione che modifica il significato di una soluzione già esistente                          | Verganti                |

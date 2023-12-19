@@ -10,7 +10,7 @@ lo sviluppo dell'innovazione può essere suddiviso in 4 fasi
 
 ### FASE DI FERMENTO
 
-In questa fase l'innovazione e ai primi passi e lo sviluppo e lento anche per una scarsa comprensione della tecnologia
+In questa fase l'innovazione è ai primi passi e lo sviluppo è lento anche per una scarsa comprensione della tecnologia
 
 ### FASE DI SVILUPPO
 
@@ -26,7 +26,7 @@ in questa fase l'impresa deve saltare su una nuova curva ad S rappresentante un'
 
 ## STAGNAZIONE DELL'INNOVAZIONE
 
-Il rapporto tra performance e impegno non e lineare, questo risulta in una stagnazione delle performance in caso non si sia più in grado di saltare a una curva a s successiva
+Il rapporto tra performance e impegno non è lineare, questo risulta in una stagnazione delle performance in caso non si sia più in grado di saltare a una curva a s successiva
 
 
 ##  LIMITI DELLE CURVE AD S

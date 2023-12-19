@@ -43,3 +43,6 @@ si costituisce di 9 livelli:
 	dimostrazione di funzionamento completa in ambiente operativo reale
 
 
+DA RICORDARE: 
+- **TRL 1**: Ricerca di Base
+- **TRL 9**: Prima produzione

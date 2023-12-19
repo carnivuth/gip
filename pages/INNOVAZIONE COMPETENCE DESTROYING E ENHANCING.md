@@ -4,4 +4,4 @@
 
 # INNOVAZIONE COMPETENCE ENHANCING
 
-Innovazione che si basa su competenze gia acquisite e le migliora (*processori intel che si basano sempre sulla stesse tecnologie dei precedenti migliorandole*)
+Innovazione che si basa su competenze già acquisite e le migliora (*processori intel che si basano sempre sulla stesse tecnologie dei precedenti migliorandole*)

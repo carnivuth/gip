@@ -4,7 +4,7 @@ innovazione che punta a creare un bene o un servizio in grado di generare nuova 
 
 # INNOVAZIONE DI PROCESSO
 
-Innovazione che punta a migliorare i processi produttivi e le attivita interne all'azienda alla fine di produrre valore (es. sviluppo di un algoritmo che trova geni sospettati di favorire lo sviluppo di una certa malattia)
+Innovazione che punta a migliorare i processi produttivi e le attività interne all'azienda alla fine di produrre valore (es. sviluppo di un algoritmo che trova geni sospettati di favorire lo sviluppo di una certa malattia)
 
 ##  INNOVAZIONE DI PROCESSO VS INNOVAZIONE DI PRODOTTO
 
@@ -12,7 +12,7 @@ Innovazione che punta a migliorare i processi produttivi e le attivita interne a
 
 ### FASE FLUIDA
 
-nella prima fase l'innovazione del prodotto e tanta in quanto ancora in fase di sviluppo e non ci si concentra nell'ottimizzare il processo
+nella prima fase l'innovazione del prodotto è tanta in quanto ancora in fase di sviluppo e non ci si concentra nell'ottimizzare il processo
 
 ### FASE TRANSITORIA
 

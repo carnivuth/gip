@@ -6,7 +6,7 @@ I risultati delle attività di ricerca e sviluppo (R&S) hanno le caratteristiche
 
 - **Non escludibilità**: non completa appropriabilità dei benefici economici o esternalità da parte dell’innovatore
 
-Per questo i guadagni di una attivita di innovazione sono spesso incerti a differenza dei costi che sono sempre molto elevati.
+Per questo i guadagni di una attività di innovazione sono spesso incerti a differenza dei costi che sono sempre molto elevati.
 
 Per compensare a questo lo stato può mettere a disposizione degli strumenti in grado di proteggere la proprietà intellettuale delle imprese
 
@@ -20,9 +20,9 @@ Strumenti in grado di proteggere invenzioni che consentono il superamento di un 
 
 Strumenti per la protezione di opere di ingegno creativo (musica, libri, architettura, teatro, cinematografia) ma anche software e progetti ingegneristici
 
-Non vi e la necessita di deposito e hanno **validità fino alla morte del detentore + 70 anni**
+Non vi è la necessita di deposito e hanno **validità fino alla morte del detentore + 70 anni**
 
-Fanno eccezione i progetti ingegneristici che **vanno depositati  e hanno durata di 20 anni**
+Fanno eccezione i progetti ingegneristici che **vanno depositati e hanno durata di 20 anni**
 
 ## DESIGN
 
