@@ -6,13 +6,13 @@ Gestiti da appositi uffici brevettuali, hanno lo scopo di proteggere invenzioni 
 
 - Frutto di **attività inventiva**
 
-- deve esserci un **applicazione industriale** della soluzione
+- deve esserci un'**applicazione industriale** della soluzione
 
 Non possono essere brevettate:
 
 - Scoperte, teorie scientifiche metodi matematici
 
-- piani, principi  e metodi per attività intellettuali
+- piani, principi e metodi per attività intellettuali
 
 - presentazioni di informazioni
 
