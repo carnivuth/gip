@@ -1,10 +1,10 @@
-# INNOVAZIONE DI PRODOTTO 
+# INNOVAZIONE DI PRODOTTO (Abernathy & Utterback) 
 
-innovazione che punta a creare un bene o un servizio in grado di generare nuova rendita per l'azienda
+innovazione che punta a creare un bene o un servizio in grado di generare nuova rendita per l'azienda (es. sviluppo di un veicolo ibrido)
 
 # INNOVAZIONE DI PROCESSO
 
-Innovazione che punta a migliorare i processi produttivi e le attivita interne all'azienda alla fine di produrre valore
+Innovazione che punta a migliorare i processi produttivi e le attivita interne all'azienda alla fine di produrre valore (es. sviluppo di un algoritmo che trova geni sospettati di favorire lo sviluppo di una certa malattia)
 
 ##  INNOVAZIONE DI PROCESSO VS INNOVAZIONE DI PRODOTTO
 

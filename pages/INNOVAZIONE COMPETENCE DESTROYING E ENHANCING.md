@@ -1,4 +1,4 @@
-# INNOVAZIONE COMPETENCE DESTROYING 
+# INNOVAZIONE COMPETENCE DESTROYING (Anderson & Tushmann) 
 
  Innovazione che nasce da competenze già possedute o le rende inadeguate alla soluzione del problema (*pallottoliere contro calcolatrice tascabile*)
 
