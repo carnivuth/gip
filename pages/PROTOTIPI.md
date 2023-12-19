@@ -1,0 +1,4 @@
+- **FISICI**: tangibile
+- **VIRTUALE**: dal punto di vista matematico
+- **GENERALE**: in scala 1:1 e che implementa la maggior parte degli attributi del prodotto
+- **SPECIFICO**: permette di valutare in maniera isolata le performance dei singoli elementi

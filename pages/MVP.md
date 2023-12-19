@@ -1,0 +1,3 @@
+- prototipo più semplificato possibile da presentare agli early adopters
+- per testare e validare le idee del prodotto
+- per accelerare il processo di apprendimento
