@@ -1,4 +1,4 @@
-# INNOVAZIONE  (Anderson & Thushmann)
+# INNOVAZIONE  RADICALE (Anderson & Thushmann)
 
 Innovazione che stravolge la vita degli acquirenti (*avvento del telefonino*) 
 
