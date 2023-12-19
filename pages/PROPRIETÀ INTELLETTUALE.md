@@ -35,8 +35,18 @@ sono le aziende pionieristiche che danno per prime il via a un processo di innov
 #### SVANTAGGI
 
 - **rischio di impresa** dovuto all'introduzione di una novità nel mercato che non si sa come sarà recepita dai clienti
+	- Incertezza domanda 
+	- Cambiamenti fabbisogni acquirenti 
+	- Specificità investimenti iniziali 
+	- Discontinuità tecnologiche 
+	- Imitazioni a basso costo
 
-- **costi di innovazione** non indifferenti, educazione degli acquirenti, acquisizione di risorse di mercato assenti, sviluppo delle infrastrutture, sviluppo di prodotti complementari, approvazione delle autorità possibilmente difficile.
+- **costi di innovazione** non indifferenti
+	- educazione degli acquirenti
+	- acquisizione di risorse di mercato assenti
+	- sviluppo delle infrastrutture
+	- sviluppo di prodotti complementari
+	- approvazione delle autorità possibilmente difficile.
 
 Per un first mover e fondamentale avere la capacita di appropriarsi dei guadagni derivanti dall'innovazione, per mezzo di [strumenti legali](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE.md), conoscenze implicite, creazione di standard tecnologici
 
