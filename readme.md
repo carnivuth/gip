@@ -7,9 +7,9 @@ la repository e un vault obsidian, per utilizzarla:
 
 - scaricare [obsidian](https://obsidian.md/)
 
-- clonare la repository
+- [clonare la repository](https://github.com/carnivuth/gip.git)
 
-- aggiungere il vault su obsidian
+- [aggiungere il vault su obsidian](https://help.obsidian.md/Files+and+folders/Manage+vaults#Create+vault+from+an+existing+folder)
 
 e possibile visualizzarla anche senza obsidian in quanto sono file di testo in markdown anche se non lo consiglio
 
