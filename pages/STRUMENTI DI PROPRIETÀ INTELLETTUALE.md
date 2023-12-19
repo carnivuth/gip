@@ -2,11 +2,11 @@
 
 | Strumento        | Durata | Cosa protegge | Deposito necessario? |
 | ---------------- | ------ | ------------- | -------------------- |
-| [[STRUMENTI DI PROPRIETÀ INTELLETTUALE#[MARCHI](MARCHI.md)\|MARCHI]]           |        |               |                      |
-| [[STRUMENTI DI PROPRIETÀ INTELLETTUALE#[BREVETTI](BREVETTI.md)\|BREVETTI]]        |        |               |                      |
-| [DIRITTI D'AUTORE](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE#DIRITTI%20D'AUTORE) |        |               |                      |
-| [DESIGN](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE#DESIGN)           |        |               |                      |
-| [TRADE SECRETS](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE#TRADE%20SECRETS)     |        |               |                      |
+| [[STRUMENTI DI PROPRIETÀ INTELLETTUALE#[MARCHI](MARCHI.md)\|MARCHI]]           | illimitato (10 anni + rinnovo)       |    proteggono i prodotti e i servizi in maniera che siano distintivi, ovvero che esista un elemento distintivo che li identifichi          | SI                     |
+| [[STRUMENTI DI PROPRIETÀ INTELLETTUALE#[BREVETTI](BREVETTI.md)\|BREVETTI]]        | 20 anni       | serve per proteggere nuove invenzioni, cioè soluzioni originali che consentono il superamento di un problema tecnico            |   SI                   |
+| [DIRITTI D'AUTORE](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE#DIRITTI%20D'AUTORE) | vita autore + 70 anni       |  opere dell’ingegno di carattere creativo + software e progetti d'ingegneria             |   NO*                   |
+| [DESIGN](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE#DESIGN)           | 25 anni       |  forma dei prodotti             |          SI            |
+| [TRADE SECRETS](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE#TRADE%20SECRETS)     | finché rimane segreto       |               |      NO                |
 
 I risultati delle attività di ricerca e sviluppo (R&S) hanno le caratteristiche di un bene pubblico, ovvero:
 
