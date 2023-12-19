@@ -28,15 +28,15 @@ sono le aziende pionieristiche che danno per prime il via a un processo di innov
 
 #### VANTAGGI
 
-- **sostenibilità del primato tecnologico**, per mezzo di [strumenti legali](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE.md) è possibile proteggere la propria innovazione da i competitors
+- **sostenibilità del primato tecnologico**, per mezzo di [strumenti legali](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE.md) è possibile proteggere la propria innovazione da i competitors e avere tutti i profitti iniziali.
 
-- vantaggi generali come controllo del mercato, reputazione verso i clienti, costi di sostituzione ridotti, accesso agevolato a scarse risorse
+- vantaggi generali come controllo del mercato, reputazione verso i clienti, costi di sostituzione ridotti, accesso agevolato a scarse risorse, curva di apprendimento esclusiva, scelta del canale di distribuzione, definizione dello standard.
 
 #### SVANTAGGI
 
 - **rischio di impresa** dovuto all'introduzione di una novità nel mercato che non si sa come sarà recepita dai clienti
 
-- **costi di innovazione** non indifferenti, educazione degli acquirenti, acquisizione di risorse di mercato assenti
+- **costi di innovazione** non indifferenti, educazione degli acquirenti, acquisizione di risorse di mercato assenti, sviluppo delle infrastrutture, sviluppo di prodotti complementari, approvazione delle autorità possibilmente difficile.
 
 Per un first mover e fondamentale avere la capacita di appropriarsi dei guadagni derivanti dall'innovazione, per mezzo di [strumenti legali](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE.md), conoscenze implicite, creazione di standard tecnologici
 

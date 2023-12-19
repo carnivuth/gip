@@ -1,5 +1,13 @@
 # STRUMENTI DI PROPRIETÀ INTELLETTUALE
 
+| Strumento        | Durata | Cosa protegge | Deposito necessario? |
+| ---------------- | ------ | ------------- | -------------------- |
+| [[STRUMENTI DI PROPRIETÀ INTELLETTUALE#[MARCHI](MARCHI.md)\|MARCHI]]           |        |               |                      |
+| [[STRUMENTI DI PROPRIETÀ INTELLETTUALE#[BREVETTI](BREVETTI.md)\|BREVETTI]]        |        |               |                      |
+| [DIRITTI D'AUTORE](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE#DIRITTI%20D'AUTORE) |        |               |                      |
+| [DESIGN](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE#DESIGN)           |        |               |                      |
+| [TRADE SECRETS](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE#TRADE%20SECRETS)     |        |               |                      |
+
 I risultati delle attività di ricerca e sviluppo (R&S) hanno le caratteristiche di un bene pubblico, ovvero:
 
 - **Non rivalità** nel consumo: costi di riproduzione di un’informazione sostanzialmente nulli

@@ -4,12 +4,15 @@
 
 Innovazione è l’**implementazione di un nuovo o significativamente migliorato prodotto/processo, metodo di mercato, o un metodo di organizzazione nelle pratiche di business/organizzazione del luogo di lavoro/relazioni esterne**
 
+> Innovazione come processo di DISTRUZIONE CREATRICE
+> \- Shumpeter (1942) <Capitalism, socialism and democracy>
+
 | FORME DI INNOVAZIONE  | DESCRIZIONE                                                                                     | AUTORI DI RIFERIMENTO   |
 | --------------------- | ----------------------------------------------------------------------------------------------- | ----------------------- |
 | [DI PRODOTTO](INNOVAZIONE%20DI%20PRODOTTO%20E%20DI%20PROCESSO.md)           | innovazioni incorporate in un bene fisico                                                       | Abernathy and Utterback |
 | [DI PROCESSO](INNOVAZIONE%20DI%20PRODOTTO%20E%20DI%20PROCESSO.md)           | innovazioni legate a processi produttivi e modalità di svolgimento delle attività di un impresa | Abernathy and Utterback |
-| [RADICALE](INNOVAZIONE%20RADICALE%20E%20INCREMENTALE.md)              | innovazioni che stravolgono il modo di vivere dei clienti                                       | Tushman and Anderson    |
-| [INCREMENTALE](INNOVAZIONE%20RADICALE%20E%20INCREMENTALE.md)          | innovazioni che si limitano a migliorare o adattare soluzioni già esistenti                     | Tushman and Anderson    |
+| [RADICALE](INNOVAZIONE%20RADICALE%20E%20INCREMENTALE.md) (aka fondamentale)             | innovazioni che stravolgono il modo di vivere dei clienti                                       | Tushman and Anderson    |
+| [INCREMENTALE](INNOVAZIONE%20RADICALE%20E%20INCREMENTALE.md) (aka marginale)         | innovazioni che si limitano a migliorare o adattare soluzioni già esistenti                     | Tushman and Anderson    |
 | [COMPETENCE ENHANCING](INNOVAZIONE%20COMPETENCE%20DESTROYING%20E%20ENHANCING.md)  | innovazioni realizzate per mezzo di miglioramento di competenze già acquisite                   | Tushman and Anderson    |
 | [COMPETENCE DESTROYING](INNOVAZIONE%20COMPETENCE%20DESTROYING%20E%20ENHANCING.md) | innovazioni che stravolgono i principi di funzionamento del prodotto                            | Tushman and Anderson    |
 | [ARCHITETTURALE](INNOVAZIONE%20ARCHITETTURALE%20E%20MODULARE.md)        | innovazioni che stravolgono l'architettura di un prodotto                                       | Henderson e Clark       |
