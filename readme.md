@@ -35,3 +35,10 @@ la repository è un vault obsidian, per utilizzarla:
 
 ## Domande aperte degli anni passati
 qui trovate alcune [DOMANDE APERTE](pages/DOMANDE%20APERTE.md) con cui fare pratica (solo riguardo gli argomenti sopracitati) 
+
+## Crediti
+
+- [carnivuth](https://github.com/carnivuth)
+- [stef-a99](https://github.com/stef-a99)
+- [Lombax99](https://github.com/Lombax99)
+- [claudiacitera](https://github.com/claudiacitera)
