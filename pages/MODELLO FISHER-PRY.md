@@ -6,9 +6,9 @@
 
 il modello prevede tre assunzioni fondamentali:
 
-- progresso di una nuova tecnologia e più competitivo rispetto all'esistente
+- progresso di una nuova tecnologia è più competitivo rispetto all'esistente
 
--  se la sostituzione inizia si conclude
+- se la sostituzione inizia si conclude
 
 - il tasso di sostituzione e proporzionale all'ammontare della vecchia tecnologia presente sul mercato
 
@@ -22,7 +22,7 @@ $$
 
 ## FUNZIONE $f$
 
-prevede l'andamento della sostituzione di una tecnologia con un altra nel mercato
+prevede l'andamento della sostituzione di una tecnologia con un'altra nel mercato
 
 $$
 f=\frac{1}{1+be^{-ct} }
