@@ -48,7 +48,7 @@ sono le aziende pionieristiche che danno per prime il via a un processo di innov
 	- sviluppo di prodotti complementari
 	- approvazione delle autorità possibilmente difficile.
 
-Per un first mover e fondamentale avere la capacita di appropriarsi dei guadagni derivanti dall'innovazione, per mezzo di [strumenti legali](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE.md), conoscenze implicite, creazione di standard tecnologici
+Per un first mover è fondamentale avere la capacità di appropriarsi dei guadagni derivanti dall'innovazione, per mezzo di [strumenti legali](STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE.md), conoscenze implicite, creazione di standard tecnologici
 
 ### FOLLOWER
 
