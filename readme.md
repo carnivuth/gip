@@ -32,3 +32,6 @@ la repository è un vault obsidian, per utilizzarla:
 - [STRUMENTI DI PROPRIETÀ INTELLETTUALE](pages/STRUMENTI%20DI%20PROPRIETÀ%20INTELLETTUALE.md)
 - [MARCHI](pages/MARCHI.md)
 - [BREVETTI](pages/BREVETTI.md)
+
+## Domande aperte degli anni passati
+qui trovate alcune [DOMANDE APERTE](DOMANDE%20APERTE.md) con cui fare pratica (solo riguardo gli argomenti sopracitati) 
