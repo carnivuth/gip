@@ -35,7 +35,12 @@ $$
 
 Il punto più complesso da raggiungere per le aziende è la fetta degli early majority questa è detta l'**abisso** o **the chasm**
 
+## % DI MERCATO
 
+- INNOVATORS: 2,5%
+- EARLY ADOPTERS: 13,5%
+- EARLY MAJORITY & LATE MAJORITY: 34%
+- LAGGARDS: 16%
 ### STRATEGIE PER SUPERARE L'ABISSO
 
 - puntare su una strategia detta a **testa di ponte** partire da un mercato di nicchia e poi espanderlo utilizzando la strategia del **marketing verticale**
