@@ -34,4 +34,4 @@ la repository è un vault obsidian, per utilizzarla:
 - [BREVETTI](pages/BREVETTI.md)
 
 ## Domande aperte degli anni passati
-qui trovate alcune [DOMANDE APERTE](DOMANDE%20APERTE.md) con cui fare pratica (solo riguardo gli argomenti sopracitati) 
+qui trovate alcune [DOMANDE APERTE](pages/DOMANDE%20APERTE.md) con cui fare pratica (solo riguardo gli argomenti sopracitati) 
