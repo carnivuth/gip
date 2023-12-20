@@ -5,13 +5,12 @@ Sull'asse delle X troviamo l'impegno e sull'asse Y il tasso di performance tecno
 Possiamo distinguere nel grafico tre fasi:
 
 1) Fase di fermento: il miglioramento delle performance è lento perché ancora la conoscenza della tecnologia è parziale.
-
 2) Fase di sviluppo: il miglioramento della performance diventa più rapido perché è aumentata la conoscenza della tecnologia è aumentata.
-
 3) Fase di maturità: la tecnologia si avvicina al proprio limite naturale e quindi la curva tende ad appiattirsi.
 ## D: Definire il concetto di innovazione radicale e incrementale fornendo un esempio per ciascuna delle due categorie.
 
 **R:** Le innovazioni radicali e incrementali riguardano l'intensità e il grado di ampiezza delle innovazioni. La definizione è stata data da Anderson e Tushman. 
+
 Un innovazione radicale (o fondamentale) è quella che punta a cambiare in modo fondamentale un prodotto già esistente, quindi punta a cambiare radicalmente il modo di vivere di una comunità e a volte anche la sua cultura. Un esempio di innovazione radicale è l'introduzione del telefono.
 
 Un innovazione incrementale (o marginale) è quella che punta a cambiare in modo marginale un prodotto già esistente. Un esempio di innovazione incrementale è l'Iphone 14, che rispetto al 13 presenta poche differenze importanti.
@@ -28,7 +27,6 @@ Un marchio ha una durata potenzialmente infinita, ma deve essere rinnovato ogni 
 Si può fare una distinzione tra marchio debole e forte:
 
 - debole: fortemente legato al prodotto in vendita (es. Melinda vende mele)
-
 - forte: completamente slegato dal prodotto in vendita (es. Apple che non vende mele o Nike)
 
 Questa distinzione è valida al livello giuridico e non fornisce alcuna valutazione del brand/azienda. 
@@ -52,7 +50,6 @@ Inoltre il marchio viene registrato solo per alcune categorie merceologiche, qui
 **R:** Anderson e Tushman hanno riscontrato che le fasi dovute alle discontinuità tecnologiche sono cicliche:
 
 - Era di fermento: competizione tra i vari modelli e disegni alternativi, fino alla scelta di un disegno dominante
-
 - Era incrementale: il disegno dominante diventa il punto di partenza per i miglioramenti incrementali.
 
 Col tempo il progresso tecnologico migliora e arriva una nuova discontinuità tecnologica che coincide con l'ingresso di una nuova curva ad S che ripete con lo stesso andamento ciclico.
