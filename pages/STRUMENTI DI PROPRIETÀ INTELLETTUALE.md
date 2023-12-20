@@ -42,7 +42,7 @@ Deve essere depositato e ha validità di 25 anni, il design deve essere nuovo e 
 
 Non sono strumenti legali, Hanno lo scopo di proteggere una base di informazioni vitali per il business (es ricetta cocacola)
 
-Per la realizzazione e necessario che ogni dipendente dell'azienda stipuli un **accordo di segretezza** riguardo al bene in questione
+Per la realizzazione è necessario che ogni dipendente dell'azienda stipuli un **accordo di segretezza** riguardo al bene in questione
 
 ## EFFICACIA DEI METODI DI PROTEZIONE
 
